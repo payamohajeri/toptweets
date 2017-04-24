@@ -5,5 +5,8 @@
     "access_token":"756337523081801732-pVKgjn0h2RzAKGA8A3gqiVGbY6zKX1P",
     "access_token_secret":"iHXyEXJpdwE4kTQzTKMLqnwbiC5Zi2hhN1qln3XUmsSKH",
     "timeout_ms":"60000"
+  },
+  "logit": {
+    "APIKey": "3b85e03-dd56-4046-9241-7d82d8a71927"
   }
 }
